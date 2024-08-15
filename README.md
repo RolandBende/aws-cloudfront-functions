@@ -1,6 +1,6 @@
 # AWS CloudFront functions
 
-## Cheaper and faster than Lambda@Edge
+## Cheaper and faster than Lambda@Edge
 
 CloudFront Functions uses a new process-based isolation model instead of virtual machine (VM)-based isolation as used by AWS Lambda and Lambda@Edge. 
 
